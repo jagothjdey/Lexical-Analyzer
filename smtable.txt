@@ -1,0 +1,2 @@
+http://www.dreamincode.net/forums/topic/107414-program-for-symbol-table-creation/  (code in c++)
+http://sourcecodesonline.blogspot.com/2010/09/1implementation-of-symbol-table.html (code in c)
